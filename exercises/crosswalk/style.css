@@ -1,0 +1,26 @@
+/* img {
+    width: 300px;
+} */
+
+.lights {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+/* .light_on {
+    display: block;
+} */
+
+.light_off {
+    display: none;
+}
+
+.switch {
+    align-items: center;
+    margin: auto;
+}
+
+.lightCounter {
+    text-align: center;
+}
